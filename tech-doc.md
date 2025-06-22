@@ -18,7 +18,7 @@
 
 # 2. System Architecture
 
-\======== HTML  ==========
+![System Architecture](./akylmentor.webp)
 
 ## Modules
 
