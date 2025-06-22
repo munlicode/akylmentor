@@ -1,0 +1,52 @@
+Technological Challenge by Astana Innovations №2
+
+You can choose to work on one of the three challenges — or take on all three if you wish.
+Task Title:
+ Digital Mentor for Civil Servants: Intelligent Chatbot for Administrative Procedures
+
+
+Introduction and Context:
+ As part of the development of a digital government and the improvement of public sector efficiency, Astana is facing a pressing need to automate routine processes and increase civil servants’ awareness of administrative procedures. Currently, the public sector experiences time loss and errors due to a lack of up-to-date information, frequent regulation changes, and the absence of a unified tool for fast access to knowledge. Civil servants spend significant time searching for answers, consulting colleagues, and coordinating actions — especially when dealing with internal regulations and the sequence of administrative steps.
+With the rise of artificial intelligence technologies, there is now an opportunity to implement intelligent assistants capable of instantly providing guidance on document workflows, regulations, service standards, ethical norms, and coordination procedures. This is especially relevant amid the accelerated digital transformation of urban governance.
+Problem Statement:
+ How can we implement a digital mentor in the form of a chatbot that instantly provides Astana's civil servants with accurate, up-to-date, and regulation-based information on internal administrative procedures, in order to increase operational efficiency and reduce errors?
+
+
+Key Goals and Desired Outcomes:
+ The solution should provide fast access to regulatory information, increase decision-making speed, reduce errors in procedural compliance, lessen the load on HR and legal departments, and accelerate onboarding for new employees.
+ Expected impact — improved efficiency of civil servants, enhanced quality of document workflows, and increased transparency of internal procedures. Secondary benefits — reduced burden on managers and increased employee engagement through greater confidence in their actions.
+
+
+Target Audience:
+ Civil servants of the Astana Akimat, employees of subordinate organizations, particularly young specialists, HR personnel, and those responsible for compliance with internal regulations and coordination with other government agencies.
+
+
+Constraints and Conditions:
+ Preference will be given to solutions based on domestic platforms or those compatible with them, with the ability to integrate into existing document management systems and internal portals. The solution must be compatible with both desktop and mobile devices. It must support localization in Russian and Kazakh. All solutions must comply with the information security and personal data protection standards of the Republic of Kazakhstan. The pilot must be implemented within 3 months at the Astana Akimat with potential for further scaling.
+
+
+Evaluation Criteria for Solutions:
+ Effectiveness of providing relevant information
+ Response speed
+ Level of user trust
+ Completeness of procedural coverage
+ Integration with existing IT infrastructure
+ Compliance with regulatory requirements
+ Ease of implementation
+ Scalability
+
+
+Expected Solution Format from Participants:
+ Final presentation (up to 10 slides), including: solution name, problem description, chatbot functionality, target audience, UX features, examples of procedures covered, architecture and technological platform, pilot implementation plan and evaluation criteria, knowledge base update mechanisms, risks and mitigation measures, required resources for the pilot. Pitch duration — up to 5 minutes + 3 minutes for questions.
+
+
+Resources and Data:
+ Access will be provided to internal regulations, document templates, manuals for typical procedures, and normative documents governing the operations of the Akimat. Integration with the internal corporate portal and a test environment for demonstration may be available.
+
+
+Additional Notes:
+ Special attention will be given to solutions that use artificial intelligence and natural language processing (NLP). Priority will be given to systems that can accumulate knowledge and learn from frequent queries. We are open to piloting solutions in collaboration with startups, provided security and quality standards are met.
+Additional:
+As part of the Meta Llama Ideathon, each solution must include a component that uses the Llama model (e.g., Llama 3). Integration can take place at any stage: generating responses, processing and adapting knowledge bases, learning from frequent queries, explaining procedures, or personalizing interaction. The approach and depth of Llama integration are up to the team, provided that it is functionally justified and reflected in the solution architecture.
+During the accelerator phase, teams will have access to Amazon Web Services (AWS) cloud infrastructure
+Deadline: June 22, 23:59 (GMT+5)
